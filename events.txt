@@ -1,0 +1,7 @@
+Event Name: Techfest
+Date: 15 December 2026
+Venue: College Audi
+
+Event: Sports Day
+Date: 20 December 2026
+Venue: College Ground
